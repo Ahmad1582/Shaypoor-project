@@ -1,0 +1,211 @@
+.logo-head{
+  width:130px;
+  height:40px;
+}
+.li-nav{
+  color: #6c757d;
+}
+.li-nav:hover{
+  color: rgb(37, 108, 201);
+}
+.bg-nav{
+ background-color: #fff;
+ padding-bottom: 25px;
+}
+.li-nav-btn{
+ background-color: #066aff;
+ margin-left: 80px;
+}
+.li-nav-btn:hover{
+  background-color: #5297ff;
+}
+.nav-ul{
+  margin-top:20px;
+}
+.m-right-left{
+  margin-left: 80px;
+  margin-right:80px;
+}
+.m-input{
+  margin-left: 100px;
+  border-color: rgba(172, 172, 172, 0.39);
+}
+.input-text{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 20px;
+  margin-left: 100px;
+}
+.m-left{
+  margin-left: 310px;
+}
+.btn-modal-footer{
+  border-color: #066aff;
+  color: #066aff;
+  width: 160px;
+}
+.icon{
+  color: #525151;
+  border-radius:100%;
+}
+.icon i{
+  font-size: 30px;
+  padding-left: 30px;
+  padding-top: 3px;
+}
+.text-icon{
+font-size: 13px;
+font-family:system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+.p-phone{
+  margin-left: 35px;
+}
+.p-chart{
+  margin-left: 15px;
+}
+.p-tec{
+  margin-left: 20px;
+}
+.p-sport{
+  margin-left: 25px;
+}
+.p-gear{
+  margin-left: 40px;
+}
+.p-bis{
+  margin-left: 40px;
+}
+.p-work{
+  margin-left: 35px;
+}
+.p-home{
+  margin-left: 80px;
+}
+.p-car{
+  margin-left: 80px;
+}
+.font{
+  font-size: 19px;
+}
+.card-img-top{
+  height:170px;
+  border-radius: 10px;
+}
+.title{
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+/* ////////////////// */
+.card{
+  border: none;
+}
+/* /////////////////*/
+
+.text-p{
+  font-family: Fira Code;
+}
+.btn-main{
+  border-color: #066aff;
+  color: #066aff;
+}
+.p-y{
+  padding: 13px 100px;
+}
+.p-y:hover{
+  color: #87b2f1;
+  border-color: #3078e4;
+}
+.f-head{
+  margin-bottom: -30px;
+}
+.f-head a{
+  text-decoration: none;
+  color: #837f7f;
+}
+.f-head a:hover{
+  color: #5c5c5c;
+}
+.f-foot a{
+  text-decoration: none;
+  color: #242424;
+}
+.f-foot a:hover{
+  color: #5c5c5c;
+}
+.f-head img{
+  margin-top: 50px;
+  width: 100px;
+  height: 105px;
+}
+/* /////////////// */
+.img-logo{
+margin-right: 200px;
+margin-left: -15px;
+}
+.btn-p-text{
+  font-size: 12px;
+}
+.icon-btn{
+  margin-top: 12px;
+  font-size: 30px;
+  margin-right: 30px;
+}
+
+/* ////////// */
+.btn-foot{
+  display: block;
+  margin-top: -30px;
+  margin-bottom: 35px;
+  margin-left:-45px;
+  border-radius: 10px;
+  border: 1px solid rgb(212, 212, 212);
+  background-color: #ffffff;
+}
+.icon-i{
+  font-size: 30px;
+  margin-top:7px;
+  color: #000000;
+  border-radius:100%;
+}
+.icon-1{
+  color: #066aff;
+}
+.icon-2{
+color: #2a015fb7;
+}
+.icon-3{
+  color: #000000;
+}
+.text-foot{
+  margin-left: 25px;
+}
+.text-app{
+  margin-left: 70px;
+}
+.icon-market{
+  margin-bottom:7px;
+}
+.text-market{
+  width: 95px;
+  margin-left: 41px;
+  margin-top: 7px;
+  height: 30px;
+}
+.text-market .p1{
+  font-size: 15px;
+}
+.p1{
+  margin-top: 1px;
+  font-size: 11px;
+}
+.p2{
+  font-size: 17px;
+  margin-top: -12px;
+  margin-bottom: -1px;
+}
+.mx-insta{
+  margin: 0px 40px;
+}
+
+.connection-icon{
+  font-size: 20px;
+  margin: 0px 570px 0px 15px;
+}
